@@ -1,3 +1,11 @@
+Equipe:
+
+Bruno Rodrigues;
+Filipe de Oliveira;
+Kátia Acioli;
+Neusa Angélica Goiana
+
+
 # Chat Redis - Sistema de Chat em Tempo Real
 
 Um sistema de chat em tempo real usando Python, Redis Streams e Textual para a interface de usuário.
